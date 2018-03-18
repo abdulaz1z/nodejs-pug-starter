@@ -39,4 +39,4 @@ this server is:
 node server.js
 ```
 
-Now browse to the app at [`localhost:3000/index.html`].
+Now browse to the app at [`localhost:3000/.`](http://localhost:3000/)
