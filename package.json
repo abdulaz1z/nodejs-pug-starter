@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-pug-starter",
+  "version": "1.0.0",
+  "description": "A simple nodejs project starter with pugjs templating.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulaz1z/nodejs-pug-starter.git"
+  },
+  "author": "Abdul Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulaz1z/nodejs-pug-starter/issues"
+  },
+  "homepage": "https://github.com/abdulaz1z/nodejs-pug-starter#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.1"
+  }
+}
